@@ -1,0 +1,5 @@
+div.board {
+	display: grid;
+	grid-template-columns: auto auto 1fr;
+	margin-top: 1em;
+}
